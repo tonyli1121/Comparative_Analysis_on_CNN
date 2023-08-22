@@ -1,0 +1,4 @@
+,0,1,2,3,4,5,6,7,8,9
+0,tensor(1.9802),tensor(1.6009),tensor(1.3200),tensor(1.0878),tensor(0.9139),tensor(0.7879),tensor(0.7042),tensor(0.6295),tensor(0.5702),tensor(0.5172)
+1,"tensor(37.7500, device='cuda:0')","tensor(52.2900, device='cuda:0')","tensor(57.1200, device='cuda:0')","tensor(67.9100, device='cuda:0')","tensor(71.5800, device='cuda:0')","tensor(76.0200, device='cuda:0')","tensor(78.5300, device='cuda:0')","tensor(78.4200, device='cuda:0')","tensor(81.2500, device='cuda:0')","tensor(79.7500, device='cuda:0')"
+2,tensor(1.6730),tensor(1.3962),tensor(1.2168),tensor(0.9612),tensor(0.8223),tensor(0.7104),tensor(0.6481),tensor(0.6202),tensor(0.5642),tensor(0.6043)
